@@ -2,4 +2,5 @@ Hey my name is Riley, just a little developer creating dumb software. Also i cre
 
 ![//](https://i.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.webp)
 
+<sub>😡 Yes, all my repositories are private so go away.</sub>
 <sub>🤫 Psst! You can join mt discord server [here](https://discord.gg/bxhmeF388E).</sub>
