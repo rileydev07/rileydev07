@@ -1,6 +1,9 @@
 ## Hello you 👋
 
-![A banner showing a stylized image of FModel as well as its logo.](https://c.tenor.com/TY8N6z1MGKsAAAAd/evil-cat-red-screen-evil-cat.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
 Beginner-friendly and open-source software for **data-mining games made with Unreal Engine**. Its interface was carefully created to be easy to understand, but complete in the features it offers. We’ve been building this since **March 5th, 2019**, first as a side-project, later at a Team level.
 
