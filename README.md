@@ -13,4 +13,4 @@ We highly rely on contribution for the projects we work on, to make FModel even 
 
 ---
 
-<sub>🤫 Psst! You can download FModel [here](https://fmodel.app/download).</sub>
+<sub>🤫 Psst! You can join mt discord server [here](https://discord.gg/bxhmeF388E).</sub>
