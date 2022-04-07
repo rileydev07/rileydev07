@@ -1,6 +1,6 @@
 ## Hello you 👋
 
-![A banner showing a stylized image of FModel as well as its logo.](https://serving.photos.photobox.com/87328579a054b5048cf22bc570269f96d2a016f59b0a8fd23395063e1835c39e2415e344.jpg)
+![A banner showing a stylized image of FModel as well as its logo.](https://gcdnb.pbrd.co/images/Z1J3f82jpBKf.png?o=1)
 
 Beginner-friendly and open-source software for **data-mining games made with Unreal Engine**. Its interface was carefully created to be easy to understand, but complete in the features it offers. We’ve been building this since **March 5th, 2019**, first as a side-project, later at a Team level.
 
